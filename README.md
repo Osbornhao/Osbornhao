@@ -1,8 +1,8 @@
 [![computer-boy](https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904)](https://pixeljeff1995.artstation.com/)
-Hi I am Guanyu Hao(郝冠宇)
+# Hi I am Guanyu Hao(郝冠宇) 👋
 
 
-### Hi there 👋
+
 
 <!--
 **Osbornhao/Osbornhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
