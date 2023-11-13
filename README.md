@@ -1,7 +1,8 @@
 [![computer-boy](https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904)](https://pixeljeff1995.artstation.com/)
-# Hi I am Guanyu Hao(郝冠宇) 👋
+# Hi! I am Guanyu Hao(郝冠宇) 👋
 
 <picture><img src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/design/discover/pixel-art/desktop/pixelart_P4a_438x450.gif" width=50px align="left" style="margin-left: 20px;"></picture>
+## About me [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guanyu-hao-ab2624233/)
 
 
 <!--
